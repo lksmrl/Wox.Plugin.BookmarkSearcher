@@ -1,7 +1,5 @@
-Wox.Plugin.BookmarkSearcher
+Wox.Plugin.BookmarkSearcher for Microsoft Edge
 ============================
-
-![demo](doc/demo.gif)
 
 ## Wox.Plugin.BookmarkSearcher for Microsoft Edge
 
