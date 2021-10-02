@@ -5,7 +5,7 @@ from pinyin.pinyin import PinYin
 
 class bookmark_searcher(object):
     # in windows
-    bookmark_name = os.path.join(os.path.expanduser("~"), 'AppData//Local//Google//Chrome//User Data//Default',
+    bookmark_name = os.path.join(os.path.expanduser("~"), 'AppData//Local//Microsoft//Edge//User Data//Default',
                                  'Bookmarks')
     # in mac
     #bookmark_name = os.path.join(os.path.expanduser("~"), 'Library/Application Support/Google/Chrome/Default',
