@@ -20,7 +20,7 @@ BookmarkSearcher is writed in python and open sourced at: https://github.com/tal
 It also can support both `zh` and `en` and so on.
 
 Done List:
-- test ok  
+- Rewrite script, to use Bookmarks from Microsoft Edge -> Test Done!  
 
 Todo List:
 -  speed of query which is very important
