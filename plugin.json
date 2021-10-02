@@ -2,7 +2,7 @@
     "ID":"64FB733EFC0F11E7AB9638D547A9452B",
     "ActionKeyword":"b",
     "Name":"BookmarksSeacher",
-    "Description":"search the chrome bookmarks and a python plugin",
+    "Description":"search the edge bookmarks and a python plugin",
     "Author":"gutiancheng",
     "Version":"1.0.0",
     "Language":"python",
