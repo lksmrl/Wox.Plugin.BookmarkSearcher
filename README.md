@@ -3,13 +3,13 @@ Wox.Plugin.BookmarkSearcher
 
 ![demo](doc/demo.gif)
 
-## Wox.Plugin.BookmarkSearcher
+## Wox.Plugin.BookmarkSearcher for Microsoft Edge
 
 `Wox` is a windows launcher, just like the Alfred in the mac. You can use to search local programs, files. It can also search web content by using plugins, such as how is the weather today, what's the score of xxx movie and so on.
 
 Wox is open sourced at: http://www.github.com/qianlifeng/wox
 
-`BookmarkSearcher` is created as a BookmarkSearcher plugin for Wox and it can search the chrome bookmarks.
+`BookmarkSearcher` is created as a BookmarkSearcher plugin for Wox and it can search the Microsoft Edge bookmarks.
 
 BookmarkSearcher is writed in python and open sourced at: https://github.com/talengu/Wox.Plugin.BookmarkSearcher
 
