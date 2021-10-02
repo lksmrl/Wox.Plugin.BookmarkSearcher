@@ -3,7 +3,7 @@
     "ActionKeyword":"b",
     "Name":"BookmarksSeacher",
     "Description":"search the edge bookmarks and a python plugin",
-    "Author":"gutiancheng",
+    "Author":"gutiancheng,lksmrl",
     "Version":"1.0.0",
     "Language":"python",
     "Website":"https://github.com/talengu/Wox.Plugin.BookmarkSearcher",
